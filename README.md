@@ -1,9 +1,3 @@
-修复一些bug
-
-
-
-以下为原项目md
-
 # [DanDanPlayForAndroid](https://github.com/xyoye/DanDanPlayForAndroid)
 
 ## 简介
